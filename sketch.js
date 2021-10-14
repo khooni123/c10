@@ -1,1 +1,1 @@
-alert("nirmit is a bad boy");
+console.log("chhote bacche");
